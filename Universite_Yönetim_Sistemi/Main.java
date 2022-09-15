@@ -17,6 +17,7 @@ public class Main {
         LabAsistani labAsistani = new LabAsistani("İnek Şaban", "0555 111 44 77", "şaban@patika.dev", "Hababam Sınıfı", "Asistan", "Saat ücretli");
         System.out.println(labAsistani.getAdSoyad()+" laboratuar derslerini takip ediyor.");
         System.out.println("***********************");
+        labAsistani.lablaraGir();
         labAsistani.derseGir();
         labAsistani.cikis();
         System.out.println("***********************");
