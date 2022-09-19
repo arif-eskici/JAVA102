@@ -36,7 +36,7 @@ public class Game {
             System.out.println("Gitmek istediginiz bolgenin ID sini giriniz");
             System.out.println("0\tCikis\n1\tGuvenli ev\n2\tEsya Dukkani\n3\tMagara\n4\tOrman\n5\tNehir\n6\tMaden");
             int selectLocation = input.nextInt();
-            boolean isPassLocation = true;      // Bolumu bır daha oynamaması için bool tipi dönduren veri tip.
+            boolean isPassLocation = true;      // Bolumu bır daha oynamaması için bool tipi dönduren veri tipi
             switch (selectLocation) {
                 case 0:
                     location = null;
