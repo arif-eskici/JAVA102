@@ -12,4 +12,4 @@
 - Programlama aşaması ; oyun öncesi hazırlanan <b>UML</b> diagramına göre aşama aşama şekillendirildi.
 - <b>UML</b> diagramı şu şekilde oluşturuldu.
 
-![UML_Diagram](/UML_AdventureGame.png)
+![UML_Diagram](/AdventureGame/UML_AdventureGame.png)
