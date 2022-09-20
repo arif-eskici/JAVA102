@@ -20,6 +20,6 @@
 - boolean isEmpty() : Listenin boş olup olmadığını söyler.
 - T[] toArray() : Listedeki öğeleri, aynı sırayla bir array haline getirir.
 - clear() : Listedeki bütün öğeleri siler, boş liste haline getirir.
-- MyList<T> sublist(int start,int finish) : Parametrede verilen indeks aralığına ait bir liste döner.
+- MyList < T > sublist(int start,int finish) : Parametrede verilen indeks aralığına ait bir liste döner.
 - boolean contains(T data) : Parametrede verilen değerin dizide olup olmadığını söyler.
   
