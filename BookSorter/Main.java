@@ -21,7 +21,7 @@ public class Main {
         book.add(book5);
 
         // sort by name
-        System.out.println("***** sorted by name *****\n");
+        System.out.println("******* sorted by name *******\n");
         for (Book bookName : book) {
             System.out.println( "Book's Name    : " + bookName.getBookName()+ 
                                 "\nNumber of Page : " + bookName.getPageNumber()+
@@ -47,7 +47,7 @@ public class Main {
         books.add(book4);
         books.add(book5);
 
-        System.out.println("\n***** sorted by number of page *****\n");
+        System.out.println("\n******* sorted by number of page *******\n");
         for (Book bookPage : books) {
             System.out.println("Book's Name      : " + bookPage.getBookName()+
                             "\nNumber of Page   : " + bookPage.getPageNumber()+
