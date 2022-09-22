@@ -97,7 +97,6 @@ public class Notebook extends Product {
         
     }
 
-
     private void brandFilter() {
         input.nextLine();
         System.out.print("Filtrelemek istediğiniz ürün markasını giriniz :");
@@ -113,8 +112,5 @@ public class Notebook extends Product {
 
     public static int getnId() {
         return nId;
-    }
-
-
-    
+    }    
 }
