@@ -12,11 +12,11 @@ public class AccountManager {
 
     public void addUsers() throws ClassCastException {
         Address address = new HomeAddress("İstanbul", "Kadıköy", "Menekşe Sokak", "Atam sitesi Menekşe sokak Kadıköy İstanbul");
-        User user1 = new User("İnek", "Şaban", "inek@saban.com", "123", "öğrenci", 23, address, "Individual");
+        User user1 = new User("İnek", "Şaban", "inek@saban", "123", "öğrenci", 23, address, "Individual");
         Account account = new Individual (user1);
 
         Address address2 = new HomeAddress("Kütahya", "Merkez", "Taşköprü Caddesi", "Taşköprü caddesi  no 12  Merkez Kütahya");
-        User user2 = new User("Güdük", "Necmi", "guduk@necmi.com", "456", "müfettiş", 34, address2, "Enterprise");
+        User user2 = new User("Güdük", "Necmi", "guduk@necmi", "456", "müfettiş", 34, address2, "Enterprise");
         Account account2 = new Enterprise(user2);
         users.add(account);
         users.add(account2);
