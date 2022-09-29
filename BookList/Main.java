@@ -36,9 +36,9 @@ public class Main {
 
         System.out.println("\nBooks with more than '500' pages :\n");
         List <Book> listBook = bookList.stream().filter(book -> book.getPageNumber() > 500).collect(Collectors.toList());
-        listBook.stream().forEach(b -> System.out.println("Book Name : " + b.getBookName() + ", " + 
-                                                          "Page Number : " + b.getPageNumber() + ", " +
-                                                          "Author : " + b.getAuthor()+ ", " +
+        listBook.stream().forEach(b -> System.out.println("Book Name : " + b.getBookName() + ",  " + 
+                                                          "Page Number : " + b.getPageNumber() + ",  " +
+                                                          "Author : " + b.getAuthor()+ ",  " +
                                                           "Publish Date : " + b.getPublishDate())); 
 
         System.out.println("*-----------------------------------*");
