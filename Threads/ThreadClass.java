@@ -47,7 +47,6 @@ public class ThreadClass implements Runnable {
 
             this.firstNumber++;
         }
-        
     }
 
     public int getFirstNumber() {
