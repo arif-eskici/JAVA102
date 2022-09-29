@@ -80,5 +80,4 @@ public class ThreadClass implements Runnable {
     public synchronized ArrayList<Integer> getEvenNumbers() {
         return evenNumbers;
     }
-
 }
