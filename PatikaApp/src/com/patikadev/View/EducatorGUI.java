@@ -43,7 +43,6 @@ public class EducatorGUI extends JFrame {
         btn_logout.addActionListener(e -> {
             dispose();
             LoginGUI login = new LoginGUI();
-
         });
 
         btn_add.addActionListener(e -> {
