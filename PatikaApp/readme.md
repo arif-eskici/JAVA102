@@ -3,13 +3,13 @@
 >> Java swingGUI kullanılarak basit bir desktop uygulama arayüzü çalışması yapıldı. Arayüzden bazı ekran görüntüleri :
 
 ### Login Ekranı
-![Login](/Login%20.png)
+![Login](/png/Login%20.png)
 
 - ### Operator Ekranı
-![Operator](/Operator.png)
+![Operator](/png/Operator.png)
 
 - ### Educator Ekranı
-![Educator](/Educator.png)
+![Educator](/png/Educator.png)
 
 - ### Student Ekranı
-![Student](/Student.png)
+![Student](/png/Student.png)
