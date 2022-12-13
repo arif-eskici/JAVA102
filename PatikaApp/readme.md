@@ -3,13 +3,13 @@
 >> Java swingGUI kullanılarak basit bir desktop uygulama arayüzü çalışması yapıldı. Arayüzden bazı ekran görüntüleri :
 
 ### Login Ekranı
-![Login](/src/com/patikadev/png/Login%20.png)
+![Login](https://github.com/arif-eskici/JAVA102/blob/main/PatikaApp/src/com/patikadev/png/Login%20.png)
 
 - ### Operator Ekranı
-![Operator](/src/com/patikadev/png/Operator.png)
+![Operator](https://github.com/arif-eskici/JAVA102/blob/main/PatikaApp/src/com/patikadev/png/Operator.png)
 
 - ### Educator Ekranı
-![Educator](/src/com/patikadev/png/Educator.png)
+![Educator](https://github.com/arif-eskici/JAVA102/blob/main/PatikaApp/src/com/patikadev/png/Educator.png) 
 
 - ### Student Ekranı
-![Student](/src/com/patikadev/png/Student.png)
+![Student](https://github.com/arif-eskici/JAVA102/blob/main/PatikaApp/src/com/patikadev/png/Student.png)
